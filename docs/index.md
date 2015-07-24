@@ -12,11 +12,11 @@
 
 I am an assistant professor at the [University of Rennes 1](http://www.univ-rennes1.fr/) - [IUT of Saint-Malo](https://iut-stmalo.univ-rennes1.fr/). My research activities at the [IRISA](http://www.irisa.fr/) laboratory focus on routing and resource allocation algorithms for wired and wireless communication networks. I teach courses on various topics related to IP networks.
 
-## <i class="fa fa-book"></i> Biography
+## Biography
 
 I graduated from the Faculty of Engineering, [Saint Joseph University](http://www.usj.edu.lb/), Beirut, in 2002. In 2006, I received a Ph.D. in communication networks from [Telecom Bretagne](http://www.telecom-bretagne.eu/), Rennes. After my Ph.D. I spent one year at [Alcatel-Lucent Bell Labs](http://goo.gl/HviCq) Europe. In 2007, I joined the University of Rennes 1 as an assistant professor. My research activities take place at the IRISA laboratory in Rennes.
 
-## <i class="fa fa-signal"></i> Research Topics
+## Research Topics
 
 My current research topics on **wireless networks** include:
 

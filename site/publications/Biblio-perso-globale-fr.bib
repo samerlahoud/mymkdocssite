@@ -2218,42 +2218,161 @@
 
 @Article{	  el-helou:2015rz,
   abstract	= {When several radio access technologies (e.g., HSPA, LTE,
-		  WiFi and WiMAX) cover the same region, deciding to which
+		  WiFi, and WiMAX) cover the same region, deciding to which
 		  one mobiles connect is known as the Radio Access Technology
 		  (RAT) selection problem. To reduce network signaling and
-		  processing load, decisions are delegated to mobile users.
-		  Mobile users aim to selfishly maximize their utility. Yet,
-		  as they do not cooperate, their decisions may lead to
-		  performance inefficiency. In this paper, to overcome this
-		  limitation, we propose a network-assisted approach. The
-		  network provides information for the mobiles to make more
-		  accurate decisions. By appropriately tuning network
-		  information, users decisions are globally expected to meet
-		  operator objectives, avoiding undesirable network states.
-		  Deriving network information is formulated as a Semi-Markov
-		  Decision Process (SMDP), and optimal policies are computed
-		  using the Policy Iteration algorithm. Also, and since
-		  network parameters may not be easily obtained, a
+		  processing load, decisions are generally delegated to
+		  mobile users. Mobile users aim to selfishly maximize their
+		  utility. However, as they do not cooperate, their decisions
+		  may lead to performance inefficiency. In this paper, to
+		  overcome this limitation, we propose a network-assisted
+		  approach. The network provides information for the mobiles
+		  to make more accurate decisions. By appropriately tuning
+		  network information, user decisions are globally expected
+		  to meet operator objectives, avoiding undesirable network
+		  states. Deriving network information is formulated as a
+		  semi-Markov decision process (SMDP), and optimal policies
+		  are computed using the Policy Iteration algorithm. Also,
+		  and since network parameters may not be easily obtained, a
 		  reinforcement learning approach is introduced to derive
-		  network information. The performances of optimal,
+		  what to signal to mobiles. The performances of optimal,
 		  learning-based, and heuristic policies, such as blocking
 		  probability and average throughput, are analyzed. When
-		  thresholds are pertinently set, our heuristic method
-		  provides very close performance to the optimal one.
-		  Moreover, although lower performances are observed, our
+		  tuning thresholds are pertinently set, our heuristic
+		  achieves performance very close to the optimal solution.
+		  Moreover, although it provides lower performance, our
 		  learning-based algorithm has the crucial advantage of
 		  requiring no prior parameterization.},
   author	= {Melhem {El Helou} and Marc Ibrahim and Samer Lahoud and
 		  Kinda Khawam and Dany Mezher and Bernard Cousin},
-  days		= 1,
+  doi		= {10.1109/JSAC.2015.2416987},
+  issn		= {0733-8716},
   journal	= {IEEE Journal on Selected Areas in Communications - Special
 		  Issue on Recent Advances in Heterogenous Cellular Networks
 		  (JSAC - HCN)},
   keywords	= {Radio access technology selection; semi-Markov decision
 		  process; reinforcement learning; heterogeneous cellular
 		  networks},
-  month		= apr,
-  title		= {A Network-assisted Approach for {RAT} Selection in
+  month		= {June},
+  number	= {6},
+  pages		= {1055-1067},
+  title		= {A Network-Assisted Approach for {RAT} Selection in
 		  Heterogeneous Cellular Networks},
+  volume	= {33},
+  year		= {2015},
+  pdf		= {https://dl.dropboxusercontent.com/u/45967765/Publications/jsac-15.pdf}
+		  
+}
+
+@InProceedings{	  farhat:2015yq,
+  abstract	= {In this paper, three pricing scenarios are proposed to set
+		  the transaction cost of the inter-operators agreement in a
+		  multi-operator cooperative environment. An analysis, of the
+		  operators' profits, is performed for these cooperation
+		  scenarios and different price sharing models are
+		  investigated for comparison. First, we present a hybrid
+		  decision algorithm for the selection of the access in a
+		  multi-operator wireless networks environment. Then, we
+		  describe the proposed pricing scenarios, the motivation
+		  behind and the points of evaluation for each scenario.
+		  Next, we present two business models made for the
+		  evaluation and highlight how network conditions and
+		  operator's strategy for service price may affect the
+		  profitability of the cooperation. Simulation results show
+		  that proposed pricing models are suitable in a cooperative
+		  environment depending on the operator situation in terms of
+		  capacity and service price.},
+  address	= {Paris, France},
+  author	= {Soha Farhat and Abed Ellatif Samhat and Samer Lahoud and
+		  Bernard Cousin},
+  booktitle	= {NTMS'2015 - Mobility \& Wireless Networks Track (NTMS'2015
+		  Mobility \& Wireless Networks Track)},
+  days		= 26,
+  keywords	= {Multi-operator sharing networks; cooperation; access
+		  selection; service pricing; transaction cost, cooperation
+		  awareness},
+  month		= jul,
+  title		= {Pricing Strategies in {Multi-Operator} Heterogeneous
+		  Wireless Networks},
+  year		= 2015
+}
+
+@InProceedings{	  aboulhassan:2015kx,
+  abstract	= {Frequency reuse-1 model is required to satisfy the
+		  exponential increase of data demands in mobile networks,
+		  such as the Long Term Evolution (LTE) of Universal Mobile
+		  Terrestrial radio access System (UMTS). However, the
+		  simultaneous usage of the same frequency resources in
+		  adjacent LTE cells creates inter-cell interference
+		  problems, that mainly affect cell-edge users. Inter-Cell
+		  Interference Coordination (ICIC) techniques are proposed to
+		  avoid the negative impact of interference on system
+		  performance. They establish restrictions on resource usage,
+		  such as Fractional Frequency Reuse (FFR), and on power
+		  allocation such as Soft Frequency Reuse (SFR). In this
+		  paper, we classify the existing ICIC techniques, and
+		  investigate the performance of reuse-1, reuse-3, FFR, and
+		  SFR schemes under various user distributions, and for
+		  various network loads. Performance of cell-center and
+		  cell-edge users are inspected, as well as the overall
+		  spectral efficiency. System level simulations show the
+		  advantages and limitations of each of the examined
+		  techniques compared to frequency reuse-1 model Under
+		  different network loads and user distributions, which helps
+		  us to determine the most suitable ICIC technique to be
+		  used.},
+  address	= {Paris, France},
+  author	= {Mohamed Abdelkarim AboulHassan and Mohamad Yassin and
+		  Samer Lahoud and Marc Ibrahim and Dany Mezher and Bernard
+		  Cousin and Essam Sourour},
+  booktitle	= {NTMS'2015 - Mobility \& Wireless Networks Track (NTMS'2015
+		  Mobility \& Wireless Networks Track)},
+  keywords	= {Inter-Cell Interference Coordination; 3GPP; LTE; reuse-3
+		  model; FFR; SFR; spectral efficiency.},
+  month		= jul,
+  title		= {Classification and Comparative Analysis of {Inter-Cell}
+		  Interference Coordination Techniques in {LTE} Networks},
+  year		= 2015
+}
+
+@InProceedings{	  yassin:2015fj,
+  abstract	= {Inter-cell interference problems arise in dense frequency
+		  reuse networks such as Long Term Evolution (LTE). They have
+		  harmful impact on system performance, especially for
+		  cell-edge users or users having bad radio conditions.
+		  Inter-Cell Interference Coordination (ICIC) schemes aim at
+		  mitigating the interference produced by nearby cells to
+		  enhance the performance of cell-edge users. ICIC techniques
+		  include static frequency reuse schemes and cell-coordinated
+		  schemes. In this paper, we propose a semi-static frequency
+		  allocation algorithm that exploits evolved-NodeBs
+		  communications via X2 interface to mitigate inter-cell
+		  interference. Each cell is divided into two zones:
+		  cell-center and cell-edge. Cell zone satisfaction is
+		  tracked, and the unsatisfied zone gets more frequency
+		  resource blocks in a distributed manner. The scope of this
+		  work is on the downlink of LTE networks using frequency
+		  division duplex transmission mode. An LTE downlink system
+		  level simulator is chosen to compare the performance of the
+		  proposed technique with the frequency reuse-1 model and the
+		  fractional frequency reuse technique. Simulation results
+		  show that our technique improves throughput cumulative
+		  distribution function, achieves a better throughput
+		  fairness, and reduces the percentage of unsatisfied users.
+		  It is a dynamic technique able to adapt with non-uniform
+		  user distributions and traffic demands.},
+  address	= {Hong Kong, P.R. China},
+  author	= {Mohamad Yassin and Youssef Dirani and Marc Ibrahim and
+		  Samer Lahoud and Dany Mezher and Bernard Cousin},
+  booktitle	= {2015 IEEE 26th International Symposium on Personal, Indoor
+		  and Mobile Radio Communications - (PIMRC): Mobile and
+		  Wireless Networks (IEEE PIMRC2015 Mobile \& Wireless)},
+  days		= 30,
+  keywords	= {Inter-cell interference coordination; LTE; fractional
+		  frequency reuse; X2 interface; fairness.},
+  month		= aug,
+  pages		= {1742-1747},
+  title		= {A Novel Dynamic {Inter-Cell} Interference Coordination
+		  Technique for {LTE} Networks},
   year		= 2015
 }

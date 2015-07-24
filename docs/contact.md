@@ -8,13 +8,13 @@
               
 You can reach me on one of the following addresses:
 
-**<i class="fa fa-pencil"></i> IRISA Rennes**<br>
+**IRISA Rennes**<br>
 Campus universitaire de Beaulieu<br>
 263 Avenue du Général Leclerc<br>
 CS 74205<br>
 35042 RENNES Cedex - France<br>
 
-**<i class="fa fa-pencil"></i> IUT de Saint-Malo**<br>
+**IUT de Saint-Malo**<br>
 Département Réseaux et Télécommunications<br>
 Rue de la Croix Désilles<br>
 CS 51713<br>
