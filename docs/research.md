@@ -6,8 +6,8 @@ I am currently a scientific advisor/co-advisor for three Ph.D. students. Since 2
 Student | Subject  | Defence Date   |  Post-graduation 
 --------|----------|----------------|-----------------                   
 Rabah Guedrez | Traffic Engineering for Segment Routing | Expected in  2018 | 
-[Mohamad Yassin](http://www.irisa.fr/atnet/Members/mohamad-yassin)	| Interference Coordination in Wireless Cellular Networks |	Expected in 2015	| 
-Soha Farhat	| Radio Resource Allocation in Multi-Operator Networks |	Expected in 2015 |	
+Soha Farhat	| Radio Resource Allocation in Multi-Operator Networks |	Expected in 2016 |	
+[Mohamad Yassin](http://www.irisa.fr/atnet/Members/mohamad-yassin)	| Interference Coordination in Wireless Cellular Networks |	November 2015	| Post-doc with Orange Labs Rennes 
 [Farah Moety](http://www.irisa.fr/atnet/Members/farah-moety)	| Joint Minimization of Power and Delay in Wireless Access Networks |	December 2014	 | Post-doc with Orange Labs Paris
 [Melhem El Helou](http://www.irisa.fr/atnet/Members/melhem-helou)	| Radio Access Technology Selection in Heterogeneous Wireless Networks|	November 2014 |	Assistant professor at USJ Lebanon
 [Emna Salhi](http://www.irisa.fr/atnet/Members/emna-salhi) |	Detection and localization of link-level network anomalies using end-to-end path monitoring |	February 2013	| 
@@ -36,6 +36,7 @@ I was also honoured to be a member of the following Ph.D. committees:
 
 Student  | Subject|	Date
 ---------|--------|-----
+Mohamad Yassin | Inter-Cell Interference Coordination in Wireless Networks | November 2015
 Amine Adouane | Dynamic management of spectral resources in LTE networks | February 2015
 [Farah Moety](http://www.irisa.fr/atnet/Members/farah-moety)	|Joint Minimization of Power and Delay in Wireless Access Networks|	December 2014
 [Melhem El Helou](http://www.irisa.fr/atnet/Members/melhem-helou)	|Radio Access Technology Selection in Heterogeneous Wireless Networks|	November 2014
