@@ -2,6 +2,7 @@ site_name: Samer Lahoud
 site_author: Samer Lahoud
 site_description: Samer Lahoud personal website.
 theme_dir: custom_yeti
+
 copyright: Samer Lahoud - Based on <a href="http://getbootstrap.com/">Bootstrap</a> - 
 pages:
 - Home: index.md
@@ -14,5 +15,3 @@ extra:
         - <a href="http://www-adopnet.irisa.fr">Research Team</a>
         - <a href="http://wiki.lahoud.fr/">Wiki</a>
 google_analytics: ['UA-6644003-1', 'samer.lahoud.fr']
-
-    

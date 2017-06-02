@@ -1,20 +1,21 @@
 # Samer Lahoud
-####Assistant Professor
+####Associate Professor
 
 <div class="container-fluid">
 		<div class="well">
-			<span class="fa fa-phone fa-fw"></span> +33 2 99 84 22 49<br>
-			<span class="fa fa-envelope fa-fw"></span> samer [DOT] lahoud [AT] irisa [DOT] fr<br>
+			<span class="fa fa-phone fa-fw"></span> +961 1 421 339<br>
+			<span class="fa fa-envelope fa-fw"></span> samer [DOT] lahoud [AT] usj [DOT] edu [DOT] lb<br>
 			<span class="fa fa-lock fa-fw"></span> Public PGP key <a href="img/D2265AB5.asc">D2265AB5</a> on <a href="https://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0xFC496040D2265AB5">key servers</a>
 		</div>
 </div>
 [comment]: <> (when using html syntax, beware of relative paths, for example my PGP key i referenced differently in index.md and in contact.md. The same goes for bibtex links in selected publications.)
 
-I am an assistant professor at the [University of Rennes 1](http://www.univ-rennes1.fr/) - [IUT of Saint-Malo](https://iut-stmalo.univ-rennes1.fr/). My research activities at the [IRISA](http://www.irisa.fr/) laboratory focus on routing and resource allocation algorithms for wired and wireless communication networks. I teach courses on various topics related to IP networks.
+I am an Associate Professor at the Faculty of Engineering [ESIB](https://fi.usj.edu.lb/) at [Université Saint-Joseph de Beyrouth](http://www.usj.edu.lb). My research activities at the [CIMTI](https://cimti.usj.edu.lb/) laboratory focus on routing and resource allocation algorithms for wired and wireless communication networks. I teach courses on various topics related to IP networks.
 
 ## Biography
 
-I graduated from the Faculty of Engineering, [Saint Joseph University](http://www.usj.edu.lb/), Beirut, in 2002. In 2006, I received a Ph.D. in communication networks from [Telecom Bretagne](http://www.telecom-bretagne.eu/), Rennes. After my Ph.D. I spent one year at [Alcatel-Lucent Bell Labs](http://goo.gl/HviCq) Europe. In 2007, I joined the University of Rennes 1 as an assistant professor. My research activities take place at the IRISA laboratory in Rennes.
+I graduated from the Faculty of Engineering, [Saint Joseph University](http://www.usj.edu.lb/), Beirut, in 2002. In 2006, I received a Ph.D. in communication networks from [Telecom Bretagne](http://www.telecom-bretagne.eu/), Rennes. After my Ph.D. I spent one year at [Alcatel-Lucent Bell Labs](http://goo.gl/HviCq) Europe. From 2007 to 2016, I was with the University of Rennes 1 and with IRISA Labs as an Associate Professor. In 2016, I joigned the Faculty of Engineering [ESIB](https://fi.usj.edu.lb/) at [Université Saint-Joseph de Beyrouth](http://www.usj.edu.lb) as an associate professor. My research activities take place at the CIMTI laboratory at ESIB.
+ 
 
 ## Research Topics
 
@@ -24,11 +25,13 @@ My current research topics on **wireless networks** include:
 
 * Resource allocation and interference mitigation.
 
-* Cell sizing and energy efficiency.
+* Power control and energy efficiency.
 
 ## Selected Publications
 
 Please refer to this [page](./publications) for the full list of my publications.
+
+* **Energy Efficient Joint Scheduling and Power Control in Multi-Cell Wireless Networks** (S. Lahoud, K. Khawam, S. Martin, G. Feng, Z. Liang, J. Nasreddine), In *IEEE Journal on Selected Areas in Communications*, volume 34, 2016. <a class="biburl" title="lahoud:2016kx" href="publications/bibtexbrowser.php?key=lahoud%3A2016kx&bib=Biblio-perso-globale-fr.bib">[bibtex]</a> <a href="https://dl.dropboxusercontent.com/u/45967765/Publications/jsac-16.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1109/JSAC.2016.2611847">[doi]</a></span>
 
 * **A Network-Assisted Approach for RAT Selection in Heterogeneous Cellular Networks** (Melhem El Helou, Marc Ibrahim, Samer Lahoud, Kinda Khawam, Dany Mezher, Bernard Cousin), In *IEEE Journal on Selected Areas in Communications* - Special Issue on Recent Advances in Heterogenous Cellular Networks (JSAC), volume 33, 2015. <a class="biburl" title="el-helou:2015rz" href="publications/bibtexbrowser.php?key=el-helou%3A2015rz&amp;bib=Biblio-perso-globale-fr.bib">[bibtex]</a> <a href="https://dl.dropboxusercontent.com/u/45967765/Publications/jsac-15.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1109/JSAC.2015.2416987">[doi]</a></span>
 

@@ -1,24 +1,16 @@
 # Contact Details
 
 <div class="well">
-<span class="fa fa-phone fa-fw"></span> +33 2 99 84 22 49<br>
-<span class="fa fa-envelope fa-fw"></span> samer [DOT] lahoud [AT] irisa [DOT] fr<br>
+<span class="fa fa-phone fa-fw"></span> +961 1 421 339<br>
+<span class="fa fa-envelope fa-fw"></span> samer [DOT] lahoud [AT] usj [DOT] edu [DOT] lb<br>
 <span class="fa fa-lock fa-fw"></span> Public PGP key <a href="../img/D2265AB5.asc">D2265AB5</a> on <a href="https://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0xFC496040D2265AB5">key servers</a>
 </div>
               
-You can reach me on one of the following addresses:
+You can reach me on the following address:
 
-**IRISA Rennes**<br>
-Campus universitaire de Beaulieu<br>
-263 Avenue du Général Leclerc<br>
-CS 74205<br>
-35042 RENNES Cedex - France<br>
+**Université Saint-Joseph de Beyrouth**<br>
+Campus des Sciences et Technologies CST<br>
+Mar Roukos<br>
+Lebanon<br>
 
-**IUT de Saint-Malo**<br>
-Département Réseaux et Télécommunications<br>
-Rue de la Croix Désilles<br>
-CS 51713<br>
-35417 Saint-Malo Cedex<br>
-
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2663.6663341606327!2d-1.639935!3d48.11667200000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480edee5a599f107%3A0x318da7854b094389!2sInria+Rennes+-+Bretagne+Atlantique!5e0!3m2!1sen!2sfr!4v1421622513579">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d1475.0886961426172!2d35.56369960904792!3d33.86566837207379!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sfr!4v1496432524457" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
