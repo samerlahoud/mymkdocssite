@@ -1,20 +1,23 @@
 # Research Activities
 
 ## Ph.D. Advisor
-I am currently a scientific advisor/co-advisor for two Ph.D. students. Since 2011, eight Ph.D. students I advised have successfully defended their thesis. The following table summarises my Ph.D. advising activities.
+I am currently a scientific advisor/co-advisor for three Ph.D. students. Since 2011, eight Ph.D. students I advised have successfully defended their thesis. The following table summarizes my Ph.D. advising activities.
 
-Student | Subject  | Defence Date   |  Post-graduation 
+Student | Subject  | Defence Date   |  Post-graduation
 --------|----------|----------------|-----------------                   
-Iaad Ben Dhia | User Association in Heterogeneous Wireless Networks | Expected in  2018 | 
-Rabah Guedrez | Traffic Engineering for Segment Routing | Expected in  2018 | 
+Hussein Taleb | Clustering Optimization in Cloud Radio Access Networks | Expected in 2020 |
+Bachir Lahad | Joint Uplink and Downlink Radio Resource Allocation for Heterogeneous TDD Cellular Networks | Expected in 2020 |
+Hassan Fawaz | Radio Ressource Allocation in Full-Duplex Cellular OFDMA Networks | Expected in 2019 |
+Iaad Ben Dhia | User Association in Heterogeneous Wireless Networks | Expected in 2018 |
+Rabah Guedrez | Traffic Engineering for Segment Routing | Expected in 2017 |
 Soha Farhat	| Access Selection and Pricing in Multi-Operator Wireless Networks |	July 2016 | Post-doc with Lebanese University 	
-[Mohamad Yassin](http://www.irisa.fr/atnet/Members/mohamad-yassin)	| Interference Coordination in Wireless Cellular Networks |	November 2015	| Post-doc with Orange Labs Rennes 
+[Mohamad Yassin](http://www.irisa.fr/atnet/Members/mohamad-yassin)	| Interference Coordination in Wireless Cellular Networks |	November 2015	| Post-doc with Orange Labs Rennes
 [Farah Moety](http://www.irisa.fr/atnet/Members/farah-moety)	| Joint Minimization of Power and Delay in Wireless Access Networks |	December 2014	 | Post-doc with Orange Labs Paris
 [Melhem El Helou](http://www.irisa.fr/atnet/Members/melhem-helou)	| Radio Access Technology Selection in Heterogeneous Wireless Networks|	November 2014 |	Assistant professor at USJ Lebanon
-[Emna Salhi](http://www.irisa.fr/atnet/Members/emna-salhi) |	Detection and localization of link-level network anomalies using end-to-end path monitoring |	February 2013	| 
+[Emna Salhi](http://www.irisa.fr/atnet/Members/emna-salhi) |	Detection and localization of link-level network anomalies using end-to-end path monitoring |	February 2013	|
 Ahmed Frikha |	On Providing QoS and reliability for next generation networks: Multi-Domain QoS Routing and Multicast Reliability	| September 2012 |	Post-doc with Orange Labs Lannion
 [Nabil Djarallah](http://chercheurs.lille.inria.fr/~djaralla/Nabil_Djarallah/Home.html)	| Network Architectures for Inter-Carrier QoS-Capable Services |	November 2011	 | Post-doc with INRIA Lille
-Alia Bellabas	 | Quality of Service Multicast Routing Subject to Multiple Constraints |	October 2011	| Post-doc with Orange Labs 
+Alia Bellabas	 | Quality of Service Multicast Routing Subject to Multiple Constraints |	October 2011	| Post-doc with Orange Labs
 
 ## Master Student Advisor
 I also advise master students typically for a period ranging from three to six months.
@@ -22,8 +25,10 @@ I also advise master students typically for a period ranging from three to six m
 
 Student	| Subject	| Year	| Post-graduation
 ----------|---------|-----|-----------------
+Wissam Eid | Capacity and Coverage Planning for IoT Access Networks based on LoRaWAN | 2018
+Mahdi Yaakoub | Low Power Wide Area Wireless Networks for IoT: Performance Comparison between LoRaWAN and NB-IoT | 2017
 Joe Saad | Power Control in 5G Full-Duplex Cellular Networks | 2016
-Hassan Fawaz | Scheduling in 5G Full-Duplex Cellular Networks | 2016
+Hassan Fawaz | Scheduling in 5G Full-Duplex Cellular Networks | 2016 | Thesis at USJ
 Karen Boulos | Dynamic Clustering for Cloud Radio Access Networks | 2015 | Thesis at Paris-Sud
 [Mohamad Yassin](http://www.irisa.fr/atnet/Members/mohamad-yassin)	| Dynamic and Distributed Radio Resource Allocation in Heterogeneous Wireless Networks |	2012	| Thesis at IRISA
 [Farah Moety](http://www.irisa.fr/atnet/Members/farah-moety) | 	Distributed Heuristics for Radio Access Technology Selection |	2011	| Thesis at IRISA
@@ -39,6 +44,7 @@ I was also honoured to be a member of the following Ph.D. committees:
 
 Student  | Subject|	Date
 ---------|--------|-----
+Enoruwa Obayiuwana | Efficient Radio Resource Management in Next Generation Wireless Networks | February 2017
 Soha Farhat	| Access Selection and Pricing in Multi-Operator Wireless Networks |	July 2016
 Mohamad Yassin | Inter-Cell Interference Coordination in Wireless Networks | November 2015
 Amine Adouane | Dynamic management of spectral resources in LTE networks | February 2015
